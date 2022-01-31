@@ -30,6 +30,6 @@ allprojects {
 Step 2. Add the dependency
 ```` 
 dependencies {
-      implementation 'com.github.JavaKira:JavaEventAPI:Tag'
+      implementation 'com.github.JavaKira:JavaEventAPI:1'
 }
 ````
