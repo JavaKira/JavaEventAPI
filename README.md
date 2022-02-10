@@ -1,6 +1,8 @@
 ![Release](https://jitpack.io/v/JavaKira/JavaEventAPI.svg)
 <h1 align="center">JavaEventAPI</h1>
 
+when i create this API i dont know about listener pattern =)
+
 ## purpose of the API
 
 make more comfortable use events without creating bikes.
